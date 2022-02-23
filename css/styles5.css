@@ -1,0 +1,33 @@
+table{
+    width: 100%;
+    text-align: center;
+    font-family: helvetica;
+    border-collapse:collapse;
+    border-color: green;
+    height: 900px;
+}
+.main{
+    background-color: azure;
+}
+.main h2{
+    text-align: center;
+    color:red;
+}
+.hang1{
+    height: 50px;
+    background-color:thistle;
+}
+.hang2{
+    font-weight: bold;
+    background-color:bisque;
+}
+.hang2:hover{
+    color:red;
+    text-decoration: underline;
+}
+.hang4{
+    background-color:beige;
+}
+.hang5{
+    background-color:aquamarine
+}
